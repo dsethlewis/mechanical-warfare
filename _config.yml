@@ -16,6 +16,8 @@ author :
   twitter : dsethlewis
   feedburner : nil
 
+theme: jekyll-theme-midnight
+
 # NOTE: Replacing this next line with your own URL
 production_url : https://dsethlewis.github.io/mechanical-warfare
 
