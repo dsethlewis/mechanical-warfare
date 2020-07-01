@@ -1,0 +1,16 @@
+priority: base
+// breakable: true
+size: 3
+health: 750
+itemCapacity: 1000
+requirements: [
+  copper/1500
+  titanium/1500
+  steel/1000
+  scrap-plate/500
+  silicon/500
+  phase-fabric/500
+  mk2-module/50
+]
+category: effect
+research: launch-pad

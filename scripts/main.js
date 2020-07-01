@@ -8,6 +8,7 @@ require("mechanical-warfare/blocks/effect/element-aura")
 require("mechanical-warfare/blocks/effect/slag-bomb")
 require("mechanical-warfare/blocks/effect/spotlight")
 require("mechanical-warfare/blocks/effect/core-sword")
+require("mechanical-warfare/blocks/effect/outpost")
 
 //units
 require("mechanical-warfare/units/ground-unit")
